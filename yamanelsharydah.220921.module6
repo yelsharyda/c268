@@ -1,0 +1,731 @@
+    1  pwd
+    2  ls
+    3  ls/
+    4  ls /
+    5  ls -1
+    6  ls -l
+    7  man ls
+    8  pwd
+    9  cd /usr/bin
+   10  psd
+   11  pwd
+   12  cd /usr/
+   13  cd /usr/bin
+   14  mkdir y658
+   15  cd /home
+   16  pwd
+   17  mkdir y658
+   18  ls
+   19  mkdir c268
+   20  pwd
+   21  cd 
+   22  pwd
+   23  mkdir y658
+   24  ls
+   25  ls -l
+   26  ls
+   27  touch file.txt
+   28  ls
+   29  touch abc.txt
+   30  ls
+   31  ls -ltr
+   32  pwd
+   33  cd /home
+   34  ls
+   35  cd /home
+   36  ls
+   37  cd /home/ec2-user
+   38  cd /
+   39  ls
+   40  cd y658
+   41  uname
+   42  uname -a
+   43  history
+   44  sumo yum update
+   45  uname 36  ls
+   46     37  cd /home/ec2-user
+   47     38  cd /
+   48     39  ls
+   49     40  cd yls
+   50  pwd
+   51  ls
+   52  pwd
+   53  cd /car/log
+   54  cd /var/log
+   55  cd ..
+   56  pwd
+   57  ls
+   58  ls -ltr
+   59  ls -l
+   60  ls -t -r
+   61  ls -t
+   62  ls -l
+   63  ls -1 -t -r
+   64  cd /
+   65  cd .
+   66  cd ..
+   67  pwd
+   68  cd .
+   69  pwd
+   70  cd ..
+   71  pwd
+   72  cd
+   73  cd /var
+   74  man ls
+   75  pwd
+   76  ls -s
+   77  uname
+   78  name -a
+   79  uname -a
+   80  history > YamanElsharydah.22.09.16.module2
+   81  pwd
+   82  cd
+   83  history > YamanElsharydah.22.09.16.module2
+   84  ls
+   85  sudo yum install git
+   86  git
+   87  bcp
+   88  https://github.com/yelsharyda/y658.git
+   89  git clone https://github.com/yelsharyda/y658.git
+   90  ls
+   91  git push
+   92  pwd
+   93  git status
+   94  cd
+   95  cd y658
+   96  git status
+   97  ls
+   98  touch y658
+   99  ls
+  100  git status
+  101  git add
+  102  git add .
+  103  git status
+  104  git commit 
+  105  git commit - m
+  106  git commit -m
+  107  git commit -m "Hello world"
+  108  git config --global user.email "yamanelshary@gmail.com"
+  109  git commit -m "Hello world"
+  110  git push
+  111  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
+  112  git push
+  113  pwd
+  114  cd
+  115  ls -ltr
+  116  cd 
+  117  ls -ltr
+  118  touch file.txt file2 ofmychoice.df.df.s
+  119  ls
+  120  cd y658
+  121  ls
+  122  l
+  123  ls
+  124  ls -ltr
+  125  touch "file .txt"
+  126  ls -ltr
+  127  rm "file .txt"
+  128  cd BasicExercise
+  129  pwd
+  130  mkdir Basicxercise
+  131  cd basicexcercise
+  132  cd basicexercise
+  133  mkdir basicexercise
+  134  ls -ltr
+  135  cd basicexercise
+  136  cd
+  137  cd basic exercise
+  138  cd basicexercise
+  139  ls -ltr
+  140  cd y658
+  141  cd basic exercise
+  142  ls -ltr
+  143  cd basicexercise
+  144  pwdhome
+  145  cd
+  146  pwd
+  147  cd y658
+  148  rm - rf basicexercise
+  149  rm -rf 
+  150  pwd
+  151  ls -ltr
+  152  cd
+  153  pwd
+  154  ls -ltr
+  155  cd y658
+  156  pwd
+  157  cd ..
+  158  find /home/ec2-user/y658
+  159  find /home/ec2-user/y658 -name "file*"
+  160  ls -ltr
+  161  echo 123
+  162  echo 123 > file
+  163  echo 123 >> file
+  164  cat file
+  165  echo 123 > file
+  166  cat file
+  167  echo 123 >> file
+  168  cat file
+  169  echo 123 > file
+  170  cat file
+  171  echo 123 > file
+  172  echo 232 > file
+  173  cat file
+  174  echo 123 > file
+  175  echo 121 >> file
+  176  cat file
+  177  less file
+  178  more file
+  179  while true; do echo hello >> file3; done
+  180  echo 123 >: file new
+  181  cat filenew
+  182  ls -ltr
+  183  SIZE=202
+  184  cb y658
+  185  cd y658
+  186  SIZE=202
+  187  echo literally whatever im writing
+  188  echo $SIZE
+  189  echo size
+  190  echo $size
+  191  ls 
+  192  ls -ltr
+  193  cat file_moved > $SIZE
+  194  $ SIZE=file.txt
+  195  pstree
+  196  pstree -shapu
+  197  clear
+  198  ps -ef | egrep "$$|cmd"
+  199  ps -ef | egrep "$$"
+  200  man
+  201  man ps
+  202  ps -eo user,pid,ppid,stat,cmd | egrep "(CMD|$$)"
+  203  clear
+  204  ps -eo pid,stat
+  205  ps -eo pid,stat | "S"
+  206   ps -eo pid,stat | grep s | head
+  207  $  ps -eo pid,stat | grep S | head -2
+  208  top
+  209  echo $user
+  210  uname
+  211  echo $USER
+  212  top -u $USER
+  213  clear
+  214  top
+  215  ping google.com
+  216  ping hudwa.shop
+  217  clear
+  218  trace hudwa.shop
+  219  traceroute hudwa.shop
+  220  clear
+  221  netstat -a
+  222  ls
+  223  man ls
+  224  clear
+  225  pwd
+  226  cd /var/log
+  227  pwd
+  228  cd ..
+  229  pwd
+  230  ls
+  231  ls -ltr
+  232  ls -l
+  233  man
+  234  man ls
+  235  ls -r
+  236  ls -l -r
+  237  ls -lt
+  238  ls -ltr
+  239  cd/
+  240  cd cd /
+  241  cd /
+  242  pwd
+  243  cd /home
+  244  pwd
+  245  cd
+  246  pwd
+  247  cd ..
+  248  cd
+  249  pwd
+  250  cd ..
+  251  pwd
+  252  cd ~
+  253  pwd
+  254  man ls
+  255  cd /var
+  256  ls -lt
+  257  man ls
+  258  ls man
+  259  man ls
+  260  ls --block-size=SIZE
+  261  ls --block-size
+  262  ls --help
+  263  ls --size
+  264  ls -lt --size
+  265  ls -ltr -h
+  266  ls -l -Sr
+  267  uname
+  268  uname 0a
+  269  uname -a
+  270  history > yamanelsharydah.220919.module2
+  271  pwd
+  272  cd /home
+  273  pwd
+  274  cd /
+  275  pwd
+  276  clear
+  277  cd ..
+  278  owd
+  279  pwd
+  280  clear
+  281  cd /home
+  282  echo "pwd"
+  283  echo pwd
+  284  echo $pwd
+  285  echo ($pwd)
+  286  echo ("$pwd")
+  287  echo "$pwd"
+  288  echo $(pwd)
+  289  mkdir Algo1
+  290  mkdir "Algo1"
+  291  cd /home/$USER
+  292  cd
+  293  pwd
+  294  mkdir Algo1
+  295  pwd
+  296  cd /home/$USER/Algo1
+  297  owd
+  298  pwd
+  299  mkdir config,bin,log,scripts
+  300  pwdf
+  301  pwd
+  302  ls
+  303  cd /home/ec2-user/Algo1/config
+  304  rm config,bin,log,scripts
+  305  rm -r
+  306  rm -r directory
+  307  rm -r config,bin,log,scripts
+  308  ls
+  309  mkdir config bin log scripts
+  310  cd config
+  311  touch config.config variables
+  312  cd scripts
+  313  cd ..
+  314  cd scripts
+  315  touch today.log
+  316  cd /home
+  317  ls -lt
+  318  ls -ltr
+  319  -ls -R
+  320  ls -R
+  321  rm variables
+  322  rm -r variables
+  323  cd config
+  324  cd $user/Algo1/config
+  325  cd $USER/Algo1/config
+  326  rm variables
+  327  ls -R
+  328  cd /home
+  329  ls -R
+  330  $USER/Algo1
+  331  rm bin
+  332  pwd
+  333  cd $USER/Algo1
+  334  rm bin
+  335  cd bin
+  336  rm bin
+  337  rmdir bin
+  338  rm -r bin
+  339  cd ..
+  340  rm -r bin
+  341  cd..
+  342  cd ..
+  343  pwd
+  344  cd Algo1
+  345  mkdir bin
+  346  cd logs
+  347  cd log
+  348  mkdir oldlogs
+  349  mkdir 2019 2018 2017
+  350  cd 2017
+  351  touch 2017.log
+  352  cd ..
+  353  cd 2018
+  354  touch 2018.log
+  355  cd 2019
+  356  cd ..
+  357  cd 2019
+  358  touch 2019.log
+  359  ls -ltr
+  360  cd ..
+  361  ls -ltr
+  362  cd /home
+  363  cd
+  364  pwd
+  365  cd ..
+  366  rm -r oldlogs
+  367  rmdir oldlogs
+  368  rm /home/$USER/Algo1/log/oldlogs
+  369  rm -r oldlogs
+  370  rm -r /home/$USER/Algo1/log/oldlogs
+  371  ls -ltr
+  372  pwd
+  373  cd /home/$USER/Algo1
+  374  ls
+  375  cd log
+  376  ls
+  377  cd /home
+  378  find /home -name *.sh
+  379  find /home -name*.sh
+  380  ls
+  381  cd /Algo1/scripts
+  382  cd Algo1
+  383  cd $USER
+  384  cd Algo1
+  385  cd Algo1/scripts
+  386  cd scripts
+  387  rm s*.sh
+  388  rm -r s*.sh
+  389  ls
+  390  touch start.sh stop.sh admin.sh
+  391  cd /home
+  392  /home -type f name “*.sh”
+  393  find /home -type f name “*.sh”
+  394  find /home -type f name *.sh
+  395  find . -name .sh
+  396  find /home -name *.sh
+  397  cd $USER/Algo1/scripts
+  398  rm s*.sh
+  399  ls
+  400  history > yamanelsharydah.220919.module3
+  401  ls
+  402  clear
+  403  cd ..
+  404  clear
+  405  STOCK = AAPL
+  406  STOCK=AAPL
+  407  echo $STOCK
+  408  STOCK=AAPL_US
+  409  echo $STOCK
+  410  PRICE=290.84
+  411  echo $PRICE
+  412  echo The price of $STOCK is $PRICE
+  413  WHOAMI=$USER
+  414  echo WHOAMI
+  415  echo $WHOAMI
+  416  SERVERTYPE=$(uname)
+  417  echo $SERVERTYPE
+  418  CMD=$(uname -l)
+  419  CMD=$(uname -i)
+  420  cmd=(uname -i)
+  421  echo cmd
+  422  echo $CMD
+  423  CMD=(uname -i)
+  424  echo CMD
+  425  echo (CMD)
+  426  echo "CMD"
+  427  echo $CMD
+  428  echo $($CMD)
+  429  pwd
+  430  mkdir scripts
+  431  cd $USER
+  432  mkdir scripts
+  433  echo $PATH
+  434  env
+  435  cd scripts
+  436  pwd
+  437  cd home
+  438  cd ..
+  439  export PATH=$PATH /usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/ec2-user/.local/bin:/home/ec2-user/bin
+  440  export PATH=/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/ec2-user/.local/bin:/home/ec2-user/bin
+  441  export PATH=$PATH:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/ec2-user/.local/bin:/home/ec2-user/bin
+  442  echo $PATH
+  443  cd Algo1
+  444  rm Algo1
+  445  cd ..
+  446  rm Algo1
+  447  rm -r Algo1
+  448  mkdir Payment1
+  449  cd Payment1
+  450  mkdir logs configurations scripts
+  451  cd scripts
+  452  touch instance.properties
+  453  cd ..
+  454  rm instance.propertioes
+  455  touch instance.properties
+  456  rm instance.properties
+  457  ls
+  458  cd scripts
+  459  touch start.sh
+  460  cd ..
+  461  cd configurations
+  462  touch instance.properties
+  463  cd ..
+  464  cd configurations
+  465  ls
+  466  ls -ltr
+  467  chmod og-w ro
+  468  chmod og-w instance.properties
+  469  /home
+  470  cd /home
+  471  pwd
+  472  rm Payment1
+  473  rm -r Payment1
+  474  ls
+  475  cd /$USER
+  476  ls
+  477  cd $USER
+  478  ls
+  479  rm -r Payment 1
+  480  rm -r Payment1
+  481  history > yamanelsharydah.220919.module4
+  482  lear
+  483  clear
+  484  pwd
+  485  cd ..
+  486  pwd
+  487  cd $USER
+  488  vi avengers
+  489  vi tester
+  490  wc tester
+  491  wc avengers
+  492  vi avengers
+  493  wc -l avengers
+  494  vi avengers
+  495  mv avengers avengers.yamanelsharydah
+  496  vi avengers
+  497  vi avengers.yamanelsharydah
+  498  pwd
+  499  ls
+  500  vi avengers.yamanelsharydah
+  501  wc -1 avengers.yamanelsharydah
+  502  wc -l avengers.yamanelsharydah
+  503  clear
+  504  wget https://the-software-guild.s3.amazonaws.com/m3-prodsupport/2005-onl/linux/fixGenerator.sh
+  505  ls
+  506  clear
+  507  ls -l fixGenerator.sh
+  508  chmod 700 fixGenerator.sh
+  509  ./fixGenerator.sh
+  510  sed -i "s/\r//g" fixGenerator.sh
+  511  ./fixGenerator.sh
+  512  ./fixGenerator.sh &
+  513  ls
+  514  ps -ef | grep fixGen
+  515  rm fixlog*
+  516  ls
+  517  ./fixGenerator.sh &
+  518  man tail
+  519  ps -ef | grep fixGen
+  520   ps -ef | grep fixGen
+  521  cat fixGenerator.sh
+  522  man cat
+  523  cat fixlog20220920175003.log > newlog.log
+  524  mkdir logs
+  525  mv newlog.log logs
+  526  ls log/
+  527  ls logs/
+  528  cat fixlog20220920175003.log >> logs/newlog.log 
+  529  man ln
+  530  ln -s logs/newlog.log daily
+  531  ls -l
+  532  clear
+  533  ls -l
+  534  vi daily
+  535  clear
+  536  less daily 
+  537  less daily
+  538  cat fixlog20220920175003.log | less daily
+  539  less fixlog20220920175003.log 
+  540  grep 35=D fixlog*
+  541  grep -i 35=d fixlog* > logs/neworders.log
+  542  cp logs/new
+  543  cp logs/neworders.log home
+  544  ls
+  545   cp logs/neworders.log .
+  546  ls
+  547  wc -l neworders.log
+  548  grep 54=1 fixlog* > logs/neworders.log
+  549  grep 54=1 fixlog* > logs/buymessages.log
+  550  grep -iv 53=d fixlog*
+  551  grep -iv fixlog* > logs/noneworders.log
+  552  wc -w logs/noneworders.log 
+  553  tail -n5 logs/noneworders.log 
+  554  grep -iv 35=d fixlog* >logs/noneworders.log 
+  555  wc -w logs/noneworders.log 
+  556  grep -i aapl fixlog*
+  557  grep -i aapl fixlog* | head -n2
+  558  tail -f fixlog* | grep 35=D
+  559  ./fixGenerator.sh &
+  560  mkdir superLogs
+  561  cp logs/* superLogs
+  562  ls superLogs/
+  563  man grep
+  564  grep -c FB fixlog*
+  565  wc - w fixlog*
+  566  wc -w fixlog*
+  567  grep NFLX fixlog* | grep 35=D
+  568  grep NFLX fixlog* | grep -c 35=D
+  569  history > yamanelsharydah.220920.module5
+  570  clear
+  571  ps -ef
+  572  $USER
+  573  echo $USER
+  574  ps -ef | grep $USER
+  575  ps -ef | grep -v $USER
+  576  ps -ef $$
+  577  ps -f $$
+  578  pstree $$
+  579  pstree
+  580  pstree shapu
+  581  pstree -shapu $$
+  582  pstree -shapu
+  583  ps -eo user pid cmd
+  584  man ps
+  585  ps -eo user,pid,cmd
+  586  ps -eo pid > list
+  587  ls
+  588  cd list
+  589  vi list
+  590  sleep 300
+  591  sleep 300 &
+  592  ps -ef | grep sleep
+  593  kill pid
+  594  kill 4625
+  595  top 
+  596  top -u root
+  597  top -z
+  598  top z
+  599  top -z root
+  600  top -Z
+  601  top -u root
+  602  ping yahoo.com
+  603  traceroute yahoo.com > /yahoo.route
+  604  traceroute yahoo.com > yahoo.route
+  605  less yahoo.route
+  606  ln -s yahoo.route route
+  607  ls -ltr
+  608  netstat -a $$
+  609  netstat -a > output
+  610  mkdir network
+  611  man mv
+  612  mv route network
+  613  mv output network
+  614  ifconfig
+  615  history > yamanelsharydah.220920.module6
+  616  clear
+  617  pwd
+  618  ls
+  619  mkdir avengers2.0
+  620  vi avengers2.0/
+  621  rm avengers2.0
+  622  rm -rf avengers2.0
+  623  vi avengers2.0
+  624  cat avengers2.0
+  625  wc -w avengers2.0
+  626  wc avengers2.0
+  627  wc -m avengers2.0
+  628  wc -c avengers2.0
+  629  vi avengers2.0
+  630  wrdcount="wc -w avengers2.0"
+  631  echo $($wrdcount)
+  632  echo  $($wrdcount)clear
+  633  clear
+  634  STOCK=AAPL
+  635  echo $STOCK
+  636  STOCK="${STOCK}_US
+  637  STOCK="${STOCK]_US
+  638  echo $STOCK
+  639  STOCK="${STOCK}_US
+  640  echo $STOCK
+  641  STOCK="${$STOCK}_US"
+  642  STOCK="${STOCK}_US"
+  643  echo $STOCK
+  644  PIRCE=290.84
+  645  echo "The current price of $STOCK is $PIRCE"
+  646  PRICE=290.84
+  647  clear
+  648  ps
+  649  ps -ef
+  650  $USER
+  651  echo $USER
+  652  ps -ef | grep $USER
+  653  ps -ef | grep -v $USER
+  654  ps -ef $$
+  655  pstree -ef
+  656  pstree $$
+  657  pstree ps
+  658  pstree $USER
+  659  pstree /f
+  660  pstree -shapu $$
+  661  pstree man
+  662  man pstree
+  663  man shapu
+  664  man pstree
+  665  pstree -shap
+  666  pstree shapu
+  667  pstree -shapu
+  668  man pstree
+  669  ps -eo user,pid,cmd
+  670  man pstree
+  671  man ps
+  672  man pstree
+  673  man ps
+  674  ps -e pid > list
+  675  ps -eo pid > list
+  676  ls
+  677  cd list
+  678  vi list
+  679  cat list
+  680  sleep 300 &
+  681  ps -ef | grep sleep
+  682  kill 10820
+  683  ps -ef
+  684  ps -ef | grep sleep
+  685  kill sleep
+  686  man ps
+  687  top
+  688  man ps
+  689  top root
+  690  top /root
+  691  top -u root
+  692  ping yahoo.com
+  693  traceroute yahoo.com
+  694  traceroute yahoo.com > yahoo.route
+  695  traceroute yahoo.com > yahoo2.route
+  696  cd yahoo2.route
+  697  ls 
+  698  cd yahoo2.route
+  699  vi yahoo2.route
+  700  less yahoo2.route 
+  701  less -l yahoo2.route
+  702  less -1 yahoo2.route
+  703  wc -l yahoo2.route
+  704  vi yahoo2.route
+  705  ln -s yahoo2.route route
+  706  ls
+  707  ls -l
+  708  vi route
+  709  mv route scripts
+  710  ls -ltr
+  711  cd scripts
+  712  ls
+  713  ls -l
+  714  mv route ~
+  715  cd ..
+  716  ls
+  717  ls -ltr
+  718  netstat -a > output
+  719  man netstat
+  720  netstat'
+  721  netstat
+  722  netstat -a
+  723  clear
+  724  netstat
+  725  netstat -a
+  726  mkdir network
+  727  mkdir network2
+  728  mv output network2
+  729  ifconfig
+  730  ifconfig -a
+  731  history > yamanelsharydah.220921.module6

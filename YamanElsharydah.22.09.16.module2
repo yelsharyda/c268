@@ -1,0 +1,83 @@
+    1  pwd
+    2  ls
+    3  ls/
+    4  ls /
+    5  ls -1
+    6  ls -l
+    7  man ls
+    8  pwd
+    9  cd /usr/bin
+   10  psd
+   11  pwd
+   12  cd /usr/
+   13  cd /usr/bin
+   14  mkdir y658
+   15  cd /home
+   16  pwd
+   17  mkdir y658
+   18  ls
+   19  mkdir c268
+   20  pwd
+   21  cd 
+   22  pwd
+   23  mkdir y658
+   24  ls
+   25  ls -l
+   26  ls
+   27  touch file.txt
+   28  ls
+   29  touch abc.txt
+   30  ls
+   31  ls -ltr
+   32  pwd
+   33  cd /home
+   34  ls
+   35  cd /home
+   36  ls
+   37  cd /home/ec2-user
+   38  cd /
+   39  ls
+   40  cd y658
+   41  uname
+   42  uname -a
+   43  history
+   44  sumo yum update
+   45  uname 36  ls
+   46     37  cd /home/ec2-user
+   47     38  cd /
+   48     39  ls
+   49     40  cd yls
+   50  pwd
+   51  ls
+   52  pwd
+   53  cd /car/log
+   54  cd /var/log
+   55  cd ..
+   56  pwd
+   57  ls
+   58  ls -ltr
+   59  ls -l
+   60  ls -t -r
+   61  ls -t
+   62  ls -l
+   63  ls -1 -t -r
+   64  cd /
+   65  cd .
+   66  cd ..
+   67  pwd
+   68  cd .
+   69  pwd
+   70  cd ..
+   71  pwd
+   72  cd
+   73  cd /var
+   74  man ls
+   75  pwd
+   76  ls -s
+   77  uname
+   78  name -a
+   79  uname -a
+   80  history > YamanElsharydah.22.09.16.module2
+   81  pwd
+   82  cd
+   83  history > YamanElsharydah.22.09.16.module2
